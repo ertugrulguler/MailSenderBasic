@@ -1,0 +1,6 @@
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\MailSender_Basic\MailSender_Basic\bin\Debug\MailSender_Basic.exe.config
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\MailSender_Basic\MailSender_Basic\bin\Debug\MailSender_Basic.exe
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\MailSender_Basic\MailSender_Basic\bin\Debug\MailSender_Basic.pdb
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\MailSender_Basic\MailSender_Basic\obj\Debug\MailSender_Basic.csprojAssemblyReference.cache
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\MailSender_Basic\MailSender_Basic\obj\Debug\MailSender_Basic.exe
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\MailSender_Basic\MailSender_Basic\obj\Debug\MailSender_Basic.pdb
